@@ -1,0 +1,28 @@
+.wrapper {
+  text-align: center;
+}
+.wrapper .img {
+  margin: auto;
+  width: 50px;
+  height: 50px;
+  /* line-height: 70px; */
+  margin-bottom: 5px;
+}
+.wrapper .img i {
+  font-size: 25px;
+}
+/* .wrapper .product {
+  padding: 20px;
+} */
+
+.wrapper .product:hover {
+  transform: translateY(-20px);
+}
+.wrapper .product h3 {
+  font-weight: 600;
+}
+.wrapper p {
+  font-size: 15px;
+  /* margin-top: 20px; */
+  color: grey;
+}
